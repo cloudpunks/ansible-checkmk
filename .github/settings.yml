@@ -1,6 +1,6 @@
 ---
 repository:
-  name: checkmk
+  name: ansible-checkmk
   description: Ansible role to install CheckMK server or satellite
   topics: ansible, role, ansible-role, hacktoberfest
 
