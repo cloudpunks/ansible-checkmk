@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.4.0](https://github.com/rolehippie/checkmk/compare/v3.3.0...v3.4.0) (2026-08-10)
+
+### Dependencies
+
+* **minor:** update dependency pipx:ansible-doctor to v8.4.0 ([#66](https://github.com/rolehippie/checkmk/issues/66)) ([70b4fc3](https://github.com/rolehippie/checkmk/commit/70b4fc35428c261c8373d98dbe7d18a88af7c238))
+* **patch:** update dependency python to v3.14.7 ([#64](https://github.com/rolehippie/checkmk/issues/64)) ([f24f797](https://github.com/rolehippie/checkmk/commit/f24f797f1810d4b80a1836d8245c05e5a69c8a84))
+
 ## [3.3.0](https://github.com/rolehippie/checkmk/compare/v3.2.0...v3.3.0) (2026-07-27)
 
 ## [3.2.0](https://github.com/rolehippie/checkmk/compare/v3.1.0...v3.2.0) (2026-04-13)
