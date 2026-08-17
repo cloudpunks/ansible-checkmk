@@ -1,5 +1,13 @@
 # Changelog
 
+## [3.5.0](https://github.com/rolehippie/checkmk/compare/v3.4.0...v3.5.0) (2026-08-17)
+
+### Dependencies
+
+* **minor:** update dependency pipx:ansible-lint to v26.8.0 ([#69](https://github.com/rolehippie/checkmk/issues/69)) ([efeb58a](https://github.com/rolehippie/checkmk/commit/efeb58a7c797e8c9036019e8402b818cf3c1a0f0))
+* **patch:** update dependency pipx:ansible-core to v2.21.3 ([#67](https://github.com/rolehippie/checkmk/issues/67)) ([7512b85](https://github.com/rolehippie/checkmk/commit/7512b85f7212dd2beb274a44a06401a264fc1ee9))
+* **patch:** update dependency pre-commit to v4.6.2 ([#68](https://github.com/rolehippie/checkmk/issues/68)) ([f4a5007](https://github.com/rolehippie/checkmk/commit/f4a50070e328adb4d9a39c7d671f10c8e0829114))
+
 ## [3.4.0](https://github.com/rolehippie/checkmk/compare/v3.3.0...v3.4.0) (2026-08-10)
 
 ### Dependencies
