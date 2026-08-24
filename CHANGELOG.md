@@ -1,5 +1,11 @@
 # Changelog
 
+## [3.6.0](https://github.com/rolehippie/checkmk/compare/v3.5.0...v3.6.0) (2026-08-24)
+
+### Dependencies
+
+* **minor:** update dependency pipx:molecule to v26.8.0 ([#70](https://github.com/rolehippie/checkmk/issues/70)) ([4003d35](https://github.com/rolehippie/checkmk/commit/4003d3571f2d8c96cbd2b8905af7a0ba8617daa7))
+
 ## [3.5.0](https://github.com/rolehippie/checkmk/compare/v3.4.0...v3.5.0) (2026-08-17)
 
 ### Dependencies
